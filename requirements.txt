@@ -1,5 +1,6 @@
 pyecharts==1.9.1
 streamlit==1.22.0
 numpy @ file:///opt/concourse/worker/volumes/live/84716fc3-63c0-4ad6-5a23-37f5ad6b3bfa/volume/
+numpy_and_numpy_base_1618497240837/work
 pandas==1.4.4
 surprise==0.1
