@@ -1,0 +1,5 @@
+pyecharts==1.9.1
+streamlit==1.22.0
+numpy==1.19.1
+pandas==1.4.4
+surprise==0.1
